@@ -2,7 +2,7 @@
 
 ### Sobre mim: 
 - 🎓 Cursando o 2° semestre em Tecnologia da Informação 
-- 📚 Atualmente estudando para a área de back-end, principalmente Java
+- 📚 Atualmente estudando para a área de back-end (Java) e análise de dados (Python)
 - 🌎 Inglês Intermediário
 - 🌱 Estou no início da área de desenvolvimento, mas tenho muita vontade de aprender!
 
