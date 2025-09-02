@@ -1,10 +1,10 @@
 ## 👩🏻‍💻 Bem-vindo!
 
 ### Sobre mim: 
-- 🎓 Cursando o 2° semestre em Tecnologia da Informação 
-- 📚 Atualmente estudando para a área fullstack (Java) e análise de dados (Python)
+- 🎓 Cursando o 3° semestre em Tecnologia da Informação 
+- 📚 Atualmente com foco em estudar desenvolvimento Full Stack (Java e JavaScript)
 - 🌎 Inglês Intermediário
-- 🌱 Estou no início da área de desenvolvimento, mas tenho muita vontade de aprender!
+- 🌱 Iniciante em desenvolvimento, mas com muita vontade de aprender!
 
 ---
 
@@ -21,11 +21,11 @@
 
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
