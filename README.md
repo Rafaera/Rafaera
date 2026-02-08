@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Bem-vindo!
 
 ### Sobre mim: 
-- 🎓 Cursando o 3° semestre em Tecnologia da Informação 
-- 📚 Atualmente com foco em estudar desenvolvimento Full Stack (Java e JavaScript)
+- 🎓 Cursando o 4° semestre em Tecnologia da Informação 
+- 📚 Atualmente com foco na área de dados e Machine Learning
 - 🌎 Inglês Intermediário
 - 🌱 Iniciante em desenvolvimento, mas com muita vontade de aprender!
 
