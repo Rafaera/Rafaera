@@ -3,7 +3,7 @@
 ### Sobre mim: 
 - 🎓 Cursando o 4° semestre em Tecnologia da Informação 
 - 📚 Atualmente com foco na área de dados e Machine Learning
-- 🌎 Inglês Intermediário
+- 🌎 Inglês avançado (C1)
 - 🌱 Iniciante em desenvolvimento, mas com muita vontade de aprender!
 
 ---
@@ -21,11 +21,20 @@
 
 <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
+    alt="Python"
+    title="Python"
     width="30px"
     style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="Jupyter Notebook"
+    title="Jupyter Notebook"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
 
 <img 
